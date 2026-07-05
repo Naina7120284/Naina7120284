@@ -1,12 +1,14 @@
 <div align="center">
 
-<!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ee62c,100:1F3A5F&height=180&section=header&text=Hi%20There%2C%20I'm%20Naina%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
+<!-- Custom-built banner (not a template) -->
+<img src="assets/banner.svg" width="100%"/>
 
-<!-- Animated typing tagline -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6B8F3A&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Building+real%2C+deployed+products;AI+%2B+Voice+%2B+RAG+%2B+Shipping+fast" alt="Typing SVG" />
+<br/><br/>
 
-<br/>
+<!-- Custom animated terminal intro (not a third-party generator) -->
+<img src="assets/terminal_intro.svg" width="600"/>
+
+<br/><br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naina-shukla-15406a260/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-6B8F3A?style=for-the-badge&logo=vercel&logoColor=white)](https://ai-portfolio-6uo8.onrender.com/)
@@ -16,85 +18,67 @@
 
 <br/>
 
-## 💻 About Me
+## 🧪 Lab Notes — things I've actually shipped
 
-```javascript
-const naina = {
-  role: "Full Stack Developer",
-  stack: ["MERN", "Next.js", "FastAPI"],
-  education: "B.Tech CSE, 2022–2026 (CGPA 8.59)",
-  certified: "C-DAC Grade A — Full Stack (MERN)",
-  currentlyBuilding: "AI-powered apps with real-time voice & RAG",
-  lookingFor: "Full Stack Developer opportunities",
-};
-```
-
+<details open>
+<summary><b>🤖 AI Career Assistant</b> — an interactive portfolio you can talk to</summary>
 <br/>
 
-## 💼 Featured Projects
+An interactive AI portfolio with a real-time voice-to-voice chatbot. 3-tier architecture (Next.js frontend, FastAPI backend, Supabase/pgvector data layer) separating the AI scoring engine from core logic.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🤖 AI Career Assistant**
-<br/><br/>
-An interactive AI portfolio with a real-time voice-to-voice chatbot. 3-tier architecture separating the AI scoring engine from core logic.
-<br/><br/>
 `Next.js` `FastAPI` `Supabase/pgvector` `WebSockets`
-<br/><br/>
-**18%** faster API response &nbsp;•&nbsp; **1.2s** voice latency
-<br/><br/>
-[🔗 Live Demo](https://ai-career-assistant-1-9nbp.onrender.com/) &nbsp;|&nbsp; [📂 Code](https://github.com/Naina7120284/AI-Career-Assistant)
 
-</td>
-<td width="50%" valign="top">
+📈 **18%** faster API response &nbsp;&nbsp; 🎙️ **1.2s** voice interaction latency
 
-**💼 Job Board**
-<br/><br/>
-A full-stack recruitment platform with role-based MVC architecture and indexed MongoDB schemas.
-<br/><br/>
+🔗 [Live Demo](https://ai-career-assistant-1-9nbp.onrender.com/) &nbsp;&nbsp; 📂 [Source](https://github.com/Naina7120284/AI-Career-Assistant)
+
+</details>
+
+<details>
+<summary><b>💼 Job Board</b> — a full-stack recruitment platform</summary>
+<br/>
+
+Role-based MVC architecture with indexed MongoDB schemas, deployed on Render with hardened error handling.
+
 `Node.js` `Express.js` `MongoDB` `Render`
-<br/><br/>
-**22%** faster queries &nbsp;•&nbsp; **<1%** crash rate
-<br/><br/>
-[🔗 Live Demo](https://job-board-fojg.onrender.com/) &nbsp;|&nbsp; [📂 Code](https://github.com/Naina7120284/CODESOFT-TASK-1)
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+📈 **22%** faster queries &nbsp;&nbsp; 🛡️ **<1%** crash rate
 
-**🧠 Parkinson's Disease Prediction**
-<br/><br/>
-A Scikit-Learn classification pipeline predicting Parkinson's from voice biomarkers, balanced with SMOTE.
-<br/><br/>
+🔗 [Live Demo](https://job-board-fojg.onrender.com/) &nbsp;&nbsp; 📂 [Source](https://github.com/Naina7120284/CODESOFT-TASK-1)
+
+</details>
+
+<details>
+<summary><b>🧠 Parkinson's Disease Prediction</b> — an ML diagnostic tool</summary>
+<br/>
+
+A Scikit-Learn classification pipeline predicting Parkinson's disease from voice biomarkers, class-balanced with SMOTE, deployed as a live Streamlit app.
+
 `Python` `Scikit-Learn` `Streamlit` `SMOTE`
-<br/><br/>
-**93%** accuracy &nbsp;•&nbsp; **<200ms** prediction latency
-<br/><br/>
-[🔗 Live Demo](https://parkinson-prediction.onrender.com/) &nbsp;|&nbsp; [📂 Code](https://github.com/Naina7120284/parkinsons-disease-ml)
 
-</td>
-<td width="50%" valign="top">
+🎯 **93%** accuracy &nbsp;&nbsp; ⚡ **<200ms** prediction latency
 
-**🎵 EchoBeats**
-<br/><br/>
-A responsive music streaming UI with lazy-loaded routes and debounced, cached search.
-<br/><br/>
+🔗 [Live Demo](https://parkinson-prediction.onrender.com/) &nbsp;&nbsp; 📂 [Source](https://github.com/Naina7120284/parkinsons-disease-ml)
+
+</details>
+
+<details>
+<summary><b>🎵 EchoBeats</b> — a music streaming interface</summary>
+<br/>
+
+A responsive music streaming UI with lazy-loaded routes and debounced, cache-backed search.
+
 `React.js` `Vite` `Node.js` `MongoDB`
-<br/><br/>
-**14%** smaller bundle &nbsp;•&nbsp; **30%** fewer lookups
-<br/><br/>
-[🔗 Live Demo](https://echobeats-project-1.onrender.com/) &nbsp;|&nbsp; [📂 Code](https://github.com/Naina7120284/echobeats-project)
 
-</td>
-</tr>
-</table>
+📦 **14%** smaller bundle &nbsp;&nbsp; ⚡ **30%** fewer redundant lookups
+
+🔗 [Live Demo](https://echobeats-project-1.onrender.com/) &nbsp;&nbsp; 📂 [Source](https://github.com/Naina7120284/echobeats-project)
+
+</details>
 
 <br/>
 
-## 🧰 Tech Stack
+## 🧰 Stack I reach for
 
 <p>
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
@@ -126,19 +110,17 @@ A responsive music streaming UI with lazy-loaded routes and debounced, cached se
 
 <br/>
 
-## 📊 GitHub Stats
+## 📈 Activity, in numbers
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Naina7120284&show_icons=true&theme=default&hide_border=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=Naina7120284&theme=default&hide_border=true" width="49%"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naina7120284&layout=compact&theme=default&hide_border=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naina7120284&show_icons=true&hide_border=true&bg_color=0d130d&title_color=9ee62c&icon_color=6B8F3A&text_color=e6edf3" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Naina7120284&hide_border=true&background=0d130d&ring=9ee62c&fire=9ee62c&currStreakLabel=e6edf3" width="49%"/>
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:9ee62c&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="assets/banner.svg" width="100%"/>
+</div>
 
 </div>
