@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="380" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"/>
+<img align="right" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTJ0azk3NjZxbjJzY3FoMHRzazh6dnNjbXdma3U3cXF3aWZzeDR1ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif"/>
 
 🚀 Full Stack AI Developer
 
