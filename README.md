@@ -1,10 +1,6 @@
 <div align="center">
 
-#  Hi ! I'm 
-
-<p align="center">
-.<img src="https://raw.githubusercontent.com/Naina7120284/Naina7120284/main/hero.svg"/>
-</p>
+<img src="https://raw.githubusercontent.com/Naina7120284/Naina7120284/main/hero.svg" width="100%"/>
 
 </div>
 
