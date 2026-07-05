@@ -1,0 +1,75 @@
+<svg width="1000" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d130d"/>
+      <stop offset="100%" stop-color="#16241a"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#9ee62c" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#9ee62c" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="1.5" cy="1.5" r="1.2" fill="#ffffff" fill-opacity="0.05"/>
+    </pattern>
+  </defs>
+
+  <!-- premium background -->
+  <rect width="1000" height="260" fill="url(#bg)"/>
+  <rect width="1000" height="260" fill="url(#dots)"/>
+  <rect width="1000" height="260" fill="url(#glow)"/>
+  <polygon points="760,0 1000,0 1000,260 880,260" fill="#ffffff" fill-opacity="0.03"/>
+  <line x1="760" y1="0" x2="880" y2="260" stroke="#9ee62c" stroke-opacity="0.3" stroke-width="2"/>
+
+  <!-- pulsing accent dot -->
+  <circle cx="90" cy="78" r="6" fill="#9ee62c">
+    <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- name -->
+  <text x="112" y="90" font-family="Arial, Helvetica, sans-serif" font-size="42" font-weight="700" fill="#f5f7f4">
+    Naina Shukla
+  </text>
+
+  <rect x="112" y="106" width="0" height="4" rx="2" fill="#9ee62c">
+    <animate attributeName="width" values="0;300;300" keyTimes="0;0.5;1" dur="2s" fill="freeze"/>
+  </rect>
+
+  <!-- animated cycling tagline (self-built, replaces external typing-svg) -->
+  <g font-family="Menlo, Consolas, monospace" font-size="21" fill="#9ee62c">
+    <text x="112" y="165">
+      <tspan fill="#6B8F3A">&gt; </tspan>Full Stack Developer | MERN &amp; Next.js
+      <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
+        keyTimes="0;0.01875;0.2125;0.23125;1" values="0;1;1;0;0"/>
+    </text>
+    <text x="112" y="165">
+      <tspan fill="#6B8F3A">&gt; </tspan>Building AI-Powered Applications with FastAPI
+      <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
+        keyTimes="0;0.25;0.26875;0.4625;0.48125;1" values="0;0;1;1;0;0"/>
+    </text>
+    <text x="112" y="165">
+      <tspan fill="#6B8F3A">&gt; </tspan>Real-Time Voice AI &#183; RAG &#183; Vector Search
+      <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
+        keyTimes="0;0.5;0.51875;0.7125;0.73125;1" values="0;0;1;1;0;0"/>
+    </text>
+    <text x="112" y="165">
+      <tspan fill="#6B8F3A">&gt; </tspan>Shipping Real, Deployed Products
+      <animate attributeName="opacity" dur="16s" repeatCount="indefinite"
+        keyTimes="0;0.75;0.76875;0.9625;0.98125;1" values="0;0;1;1;0;0"/>
+    </text>
+  </g>
+
+  <!-- tag pills -->
+  <g font-family="Menlo, Consolas, monospace" font-size="13" fill="#9ee62c">
+    <rect x="112" y="188" width="72" height="26" rx="13" fill="#9ee62c" fill-opacity="0.1" stroke="#9ee62c" stroke-opacity="0.4"/>
+    <text x="127" y="205">MERN</text>
+
+    <rect x="196" y="188" width="82" height="26" rx="13" fill="#9ee62c" fill-opacity="0.1" stroke="#9ee62c" stroke-opacity="0.4"/>
+    <text x="211" y="205">Next.js</text>
+
+    <rect x="290" y="188" width="82" height="26" rx="13" fill="#9ee62c" fill-opacity="0.1" stroke="#9ee62c" stroke-opacity="0.4"/>
+    <text x="305" y="205">FastAPI</text>
+
+    <rect x="384" y="188" width="70" height="26" rx="13" fill="#9ee62c" fill-opacity="0.1" stroke="#9ee62c" stroke-opacity="0.4"/>
+    <text x="399" y="205">AI/RAG</text>
+  </g>
+</svg>
