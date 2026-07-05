@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-<img align="right" width="380" src="./assets/female-coder.gif"/>
+<img align="right" width="380" src="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr"/>
 
 🚀 Full Stack AI Developer
 
