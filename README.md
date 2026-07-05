@@ -1,6 +1,6 @@
 <div align="center">
 
-#  Hi ! I'm Naina Shukla
+#  Hi ! I'm 
 
 <p align="center">
 .<img src="https://raw.githubusercontent.com/Naina7120284/Naina7120284/main/hero.svg"/>
