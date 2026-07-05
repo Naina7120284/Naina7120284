@@ -88,27 +88,26 @@
 </p>
 
 ## 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naina7120284&theme=tokyo-night&hide_border=true"/>
-
-## 🐍 Contribution Snake
-
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Naina7120284/Naina7120284/output/github-contribution-grid-snake-dark.svg"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naina7120284&bg_color=ffffff&color=1F3A5F&line=9ee62c&point=6B8F3A&area=true&area_color=9ee62c&hide_border=true&title_color=1F3A5F"/>
 </p>
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://linkedin.com/in/naina-shukla-15406a260">
+<a href="https://www.linkedin.com/in/naina-shukla-15406a260/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:shuklanaina638@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
+<a href="https://github.com/Naina7120284">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+</p>
 
+<p align="center">
+<a href="https://ai-portfolio-6uo8.onrender.com/">
+<img src="https://img.shields.io/badge/-Portfolio-6B8F3A?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 </p>
