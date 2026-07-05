@@ -6,13 +6,13 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=900&color=9D4EDD&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Machine+Learning+Engineer;FastAPI+%7C+Next.js+%7C+React+%7C+Python;Creating+Real+World+AI+Solutions"/>
 
-<img src="YOUR_BANNER_IMAGE_URL"/>
+<img src="<img width="100%" src="https://raw.githubusercontent.com/Naina7120284/Naina7120284/main/assets/banner.png"/>"/>
 
 </div>
 
 ## 💫 About Me
 
-<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<img align="right" width="380" src="./assets/female-coder.gif"/>
 
 🚀 Full Stack AI Developer
 
@@ -84,7 +84,7 @@
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naina7120284&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naina7120284&show_icons=true&theme=default&hide_border=true"/>
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naina7120284&theme=tokyonight&hide_border=true"/>
 
