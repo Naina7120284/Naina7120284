@@ -4,9 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9ee62c,100:1F3A5F&height=180&section=header&text=Hi%20There%2C%20I'm%20Naina%20%F0%9F%91%8B&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=42" width="100%"/>
 
 <!-- Animated typing tagline -->
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6B8F3A&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Building+real%2C+deployed+products;AI+%2B+Voice+%2B+RAG+%2B+Shipping+fast" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=6B8F3A&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Building+real%2C+deployed+products;AI+%2B+Voice+%2B+RAG+%2B+Shipping+fast" alt="Typing SVG" />
 
 <br/>
 
@@ -20,8 +18,6 @@
 
 ## 💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/svg/typing-code.svg" onerror="this.style.display='none'"/>
-
 ```javascript
 const naina = {
   role: "Full Stack Developer",
@@ -33,8 +29,6 @@ const naina = {
 };
 ```
 
-<br clear="right"/>
-
 <br/>
 
 ## 💼 Featured Projects
@@ -44,22 +38,26 @@ const naina = {
 <td width="50%" valign="top">
 
 **🤖 AI Career Assistant**
+<br/><br/>
 An interactive AI portfolio with a real-time voice-to-voice chatbot. 3-tier architecture separating the AI scoring engine from core logic.
-
+<br/><br/>
 `Next.js` `FastAPI` `Supabase/pgvector` `WebSockets`
+<br/><br/>
 **18%** faster API response &nbsp;•&nbsp; **1.2s** voice latency
-
+<br/><br/>
 [🔗 Live Demo](https://ai-career-assistant-1-9nbp.onrender.com/) &nbsp;|&nbsp; [📂 Code](https://github.com/Naina7120284/AI-Career-Assistant)
 
 </td>
 <td width="50%" valign="top">
 
 **💼 Job Board**
+<br/><br/>
 A full-stack recruitment platform with role-based MVC architecture and indexed MongoDB schemas.
-
+<br/><br/>
 `Node.js` `Express.js` `MongoDB` `Render`
+<br/><br/>
 **22%** faster queries &nbsp;•&nbsp; **<1%** crash rate
-
+<br/><br/>
 [🔗 Live Demo](https://job-board-fojg.onrender.com/) &nbsp;|&nbsp; [📂 Code](https://github.com/Naina7120284/CODESOFT-TASK-1)
 
 </td>
@@ -68,22 +66,26 @@ A full-stack recruitment platform with role-based MVC architecture and indexed M
 <td width="50%" valign="top">
 
 **🧠 Parkinson's Disease Prediction**
+<br/><br/>
 A Scikit-Learn classification pipeline predicting Parkinson's from voice biomarkers, balanced with SMOTE.
-
+<br/><br/>
 `Python` `Scikit-Learn` `Streamlit` `SMOTE`
+<br/><br/>
 **93%** accuracy &nbsp;•&nbsp; **<200ms** prediction latency
-
+<br/><br/>
 [🔗 Live Demo](https://parkinson-prediction.onrender.com/) &nbsp;|&nbsp; [📂 Code](https://github.com/Naina7120284/parkinsons-disease-ml)
 
 </td>
 <td width="50%" valign="top">
 
 **🎵 EchoBeats**
+<br/><br/>
 A responsive music streaming UI with lazy-loaded routes and debounced, cached search.
-
+<br/><br/>
 `React.js` `Vite` `Node.js` `MongoDB`
+<br/><br/>
 **14%** smaller bundle &nbsp;•&nbsp; **30%** fewer lookups
-
+<br/><br/>
 [🔗 Live Demo](https://echobeats-project-1.onrender.com/) &nbsp;|&nbsp; [📂 Code](https://github.com/Naina7120284/echobeats-project)
 
 </td>
@@ -127,12 +129,12 @@ A responsive music streaming UI with lazy-loaded routes and debounced, cached se
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Naina7120284&show_icons=true&theme=default&hide_border=true&bg_color=ffffff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naina7120284&theme=default&hide_border=true&background=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Naina7120284&show_icons=true&theme=default&hide_border=true" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=Naina7120284&theme=default&hide_border=true" width="49%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naina7120284&layout=compact&theme=default&hide_border=true&bg_color=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naina7120284&layout=compact&theme=default&hide_border=true" width="49%"/>
 </div>
 
 <br/>
