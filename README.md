@@ -84,9 +84,7 @@
 </p>
 
 ## 📈 Contribution Graph
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naina7120284&bg_color=ffffff&color=1F3A5F&line=9ee62c&point=6B8F3A&area=true&area_color=9ee62c&hide_border=true&title_color=1F3A5F"/>
-</p>
+<p align="center"> <img width="48%" src="https://streak-stats.demolab.com/?user=Naina7120284&theme=default&hide_border=true"/> </p> <p align="center"> </p>
 
 ## 🌐 Connect With Me
 
