@@ -3,7 +3,7 @@
 #  Hi ! I'm Naina Shukla
 
 <p align="center">
-.<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=900&color=9D4EDD&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+%7C+MERN+%26+Next.js;Building+AI-Powered+Applications+with+FastAPI;Real-Time+Voice+AI+%C2%B7+RAG+%C2%B7+Vector+Search;Shipping+Real%2C+Deployed+Products"/>
+.<img src="https://raw.githubusercontent.com/Naina7120284/Naina7120284/main/hero.svg"/>
 </p>
 
 </div>
