@@ -1,118 +1,123 @@
 <div align="center">
 
-# Hi there! 👋 I'm Naina Shukla
+# 👋 Hi, I'm Naina Shukla
 
-### Full Stack Developer • AI Enthusiast • ML Explorer
+### Full Stack AI Developer • Machine Learning Engineer • Building Intelligent Products
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1200&color=8A2BE2&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Machine+Learning+Explorer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=900&color=9D4EDD&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Full+Stack+Developer;Machine+Learning+Engineer;FastAPI+%7C+Next.js+%7C+React+%7C+Python;Creating+Real+World+AI+Solutions"/>
+
+<img src="YOUR_BANNER_IMAGE_URL"/>
 
 </div>
 
----
+## 💫 About Me
 
-<img align="right" width="420" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img align="right" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 
-## 👩‍💻 About Me
+🚀 Full Stack AI Developer
 
-🎓 B.Tech CSE Graduate
+🎓 B.Tech Computer Science Graduate
 
-💜 Passionate about AI, Web Development & Machine Learning
+💡 Passionate about building intelligent software powered by AI
 
-🚀 Building real-world AI applications
+🧠 Experienced with LLMs, RAG Systems, FastAPI, React & Machine Learning
 
-🌱 Currently learning
-- RAG
-- FastAPI
-- Next.js
-- AI Agents
+⚡ Love transforming ideas into production-ready products
 
-💼 Open for Software Developer Opportunities
+🎯 Looking for Full stack developer  & AI Engineering opportunities
 
 ---
 
-## 🚀 Tech Stack
+## ⚙️ Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,ts"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp"/>
 
-### Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-</p>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express"/>
 
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
-</p>
-
-### Database
-
-<p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase"/>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode"/>
+
 </p>
 
-### Tools
+## 🧠 AI Expertise
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
-</p>
+✔ Retrieval-Augmented Generation (RAG)
 
----
+✔ Prompt Engineering
 
-# ⭐ Featured Projects
+✔ LLM Applications
+
+✔ FastAPI APIs
+
+✔ RESTful Architecture
+
+✔ AI Chatbots
+
+✔ Resume Intelligence
+
+✔ Machine Learning
+
+✔ Data Preprocessing
+
+✔ Model Deployment
+
+✔ Vector Databases
+
+✔ Full Stack Development
+
+
+## 🚀 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| 🤖 AI Career Assistant | AI-powered career platform with Resume Review, Interview Prep, Roadmap Generator & Voice Chat |
-| 🎵 EchoBeats | Full Stack Music Streaming Application |
-| 🧠 Parkinson Disease Prediction | Machine Learning project using Scikit-Learn |
-| 🌐 AI Portfolio | Interactive AI Resume Portfolio |
+| 🤖 AI Career Assistant | AI-powered career platform featuring Resume Review, Career Chat, Voice Assistant, Interview Preparation and Roadmaps |
+| 💼 AI Portfolio | Interactive AI Resume Portfolio for recruiters |
+| 🎵 EchoBeats | MERN Music Streaming Platform |
+| 🧠 Parkinson Disease Prediction | ML-based disease prediction system |
 
----
-
-# 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naina7120284&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naina7120284&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naina7120284&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Naina7120284&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naina7120284&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naina7120284&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
----
+## 📈 Contribution Graph
 
-## 🌐 Connect with Me
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Naina7120284&theme=tokyo-night&hide_border=true"/>
 
-<p>
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Naina7120284/Naina7120284/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+## 🌐 Connect With Me
+
+<p align="center">
 
 <a href="https://linkedin.com/in/naina-shukla-15406a260">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:your-email@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
-
----
-
-<div align="center">
-
-### 💜 *Transforming Ideas into Intelligent Solutions.*
-
-![](https://komarev.com/ghpvc/?username=Naina7120284&color=blueviolet&style=for-the-badge)
-
-</div>
