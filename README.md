@@ -74,17 +74,6 @@
 | 🎵 EchoBeats | MERN Music Streaming Platform |
 | 🧠 Parkinson Disease Prediction | ML-based disease prediction system |
 
-## 📊 GitHub Analytics
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Naina7120284&show_icons=true&theme=default&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naina7120284&layout=compact&theme=default&hide_border=true"/>
-
-</p>
-
-## 📈 Contribution Graph
-<p align="center"> <img width="48%" src="https://streak-stats.demolab.com/?user=Naina7120284&theme=default&hide_border=true"/> </p> <p align="center"> </p>
 
 ## 🌐 Connect With Me
 
