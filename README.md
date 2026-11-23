@@ -24,7 +24,7 @@ I'm Naina, a B.Tech CSE graduate who builds full-stack web applications and expl
 | Project | What I built | Links |
 |---|---|---|
 | 💰 **PayrollPro** | Contract-workforce payroll: client attendance Excel / scanned-PDF import, reconciliation, PF / ESIC / PT and minimum-wage checks, effective-dated wage rules, payslips, bank file and GST invoices. FastAPI · SQLAlchemy · Jinja2 · Docker · 56 automated tests. | [Live demo](https://payrollpro-demo.onrender.com) · company code, private |
-| 🤖 **AI Career Assistant** | Career platform with resume review, career chat, voice interaction, interview preparation and learning roadmaps. | [Code](https://github.com/Naina7120284/AI-Career-Assistant) |
+| 🤖 **AI Career Assistant** | Career platform with resume review, career chat, voice interaction, interview preparation and learning roadmaps. | [Live](https://ai-career-assistant-1-9nbp.onrender.com) · [Code](https://github.com/Naina7120284/AI-Career-Assistant) |
 | 💼 **AI Portfolio** | Interactive portfolio where visitors can ask an AI assistant about my projects and skills. | [Live](https://ai-portfolio-6uo8.onrender.com/) · [Code](https://github.com/Naina7120284/AI-Portfolio) |
 | 🎵 **EchoBeats** | MERN music-streaming app (React/Vite front end, Node/Express back end) — team project. | [Code](https://github.com/Naina7120284/echobeats-project) |
 | 🛒 **Babbafly API** | Node.js marketplace REST API with JWT auth, MongoDB listings, search filters and orders. | [Code](https://github.com/Naina7120284/babbafly-backend) |
