@@ -14,7 +14,7 @@ I'm Naina, a B.Tech CSE graduate who builds full-stack web applications and expl
 
 - 💼 **Now:** building **PayrollPro**, a payroll system for a contract-staffing company (rollout in progress)
 - 🧰 **Stack:** Python · FastAPI · React · Next.js · TypeScript · Node/Express · SQL & MongoDB · Docker
-- 🤖 **Applied AI:** LLM apps, retrieval-augmented generation (RAG), document processing, machine learning
+- 🤖 **Applied AI:** LLM apps grounded in user data (résumé-aware chat), document processing, machine learning
 - 🎯 **Open to:** entry-level Full-Stack, Python Backend and AI Engineer roles in India
 
 <br clear="right"/>
